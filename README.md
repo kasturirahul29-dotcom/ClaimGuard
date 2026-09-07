@@ -183,9 +183,6 @@ The automated fraud detection engine evaluates every incoming claim against thre
   <img src="docs/screenshots/login.png" width="45%"/>
   <img src="docs/screenshots/submit-claim-flagged.png" width="45%"/>
 </p>
-<p align="center">
-  <img src="docs/screenshots/admin-flagged-claims.png" width="90%"/>
-</p>
 
 ## Future Improvements
 * **ML-based Fraud Scoring:** Integrate a machine learning model to complement the deterministic rule engine for identifying nuanced, non-linear fraud patterns.
