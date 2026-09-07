@@ -1,4 +1,4 @@
-# Insurance Claims Processing System
+# ClaimGuard
 
 ## 1. Problem Statement
 This system provides a modern, secure web application for customers to manage insurance policies and file claims, while equipping administrators with automated tools to detect potentially fraudulent activity. By enforcing strict Role-Based Access Control (RBAC) and executing a deterministic, explainable fraud-detection engine on every submission, the platform significantly reduces the manual workload of claims adjusters while maintaining a transparent and defensible audit trail.

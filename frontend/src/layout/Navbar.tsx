@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '1.25rem', fontWeight: 700, fontFamily: 'var(--font-display)' }}>
           <ShieldAlert size={28} color="var(--primary)" />
-          <span>Aegis<span style={{ color: 'var(--primary)' }}>Claims</span></span>
+          <span>Claim<span style={{ color: 'var(--primary)' }}>Guard</span></span>
         </Link>
         
         {user ? (

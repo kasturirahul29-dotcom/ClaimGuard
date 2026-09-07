@@ -43,7 +43,7 @@ export default function Register() {
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <ShieldAlert size={48} color="var(--primary)" style={{ margin: '0 auto 1rem' }} />
           <h1 style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>Create Account</h1>
-          <p style={{ color: 'var(--text-muted)' }}>Join AegisClaims as a customer</p>
+          <p style={{ color: 'var(--text-muted)' }}>Join ClaimGuard as a customer</p>
         </div>
 
         {error && (
